@@ -12,21 +12,21 @@ Site escolhido: The New York Times
 
 
 ## Perguntas
-- Qual era o o propósito inicial do site? 
+- Qual era o o propósito inicial do site?\
 Informar as notícias sobre o que está acontecendo no mundo.
 
-- O site propósito mudou ao longo do tempo? 
+- O site propósito mudou ao longo do tempo?\
 Não.
 
-- Quais os problemas que esse site tinha quando "novo" e quais têm agora? 
-2001: O site era poluído.
-2006: O site tinha mais informação, e era mais fácil de ser compreendido do que de 2001.
-2011: O layout era um pouco mais limpo, mas ainda assim, tinha uns espaços vazios no qual eu não sabia qual era o propósito.
-2016: Em 2016,teve a página mais organizada e utilizou tamanhos de letras diferentes, porém, colocou background color:branco e a cor da letra cinza, sendo um problema para as pessoas que usa óculos e que têm deficiência visual.
-2021: O footter está mais organizado, porque antigamente tinha quase nada no futter.
+- Quais os problemas que esse site tinha quando "novo" e quais têm agora?\
+2001: O site era poluído.\
+2006: O site tinha mais informação, e era mais fácil de ser compreendido do que de 2001.\
+2011: O layout era um pouco mais limpo, mas ainda assim, tinha uns espaços vazios no qual eu não sabia qual era o propósito.\
+2016: Em 2016, teve a página mais organizada e utilizou tamanhos de letras diferentes, porém, colocou background color:branco e a cor da letra cinza, sendo um problema para as pessoas que usa óculos e que têm deficiência visual.\
+2021: O footer está mais organizado, porque antigamente tinha quase nada no footer.\
 2023: O site aprendeu com os erros do passado, se tornando um site mais bonito e fácil de se acessar.
 
-- Que melhorias você faria nesse site para que ele pudesse ser mais interessante para um público jovem, de periferia, que não está acostumado ao uso de Internet por computadores e não tem interesses por notícias.
+- Que melhorias você faria nesse site para que ele pudesse ser mais interessante para um público jovem, de periferia, que não está acostumado ao uso de Internet por computadores e não tem interesses por notícias.\
 Deixaria meu site com um layout mais limpo para se navegar, colocaria o footer mais organizado contendo botões para cada tipo de notícia e separaria em tópicos cada tipo de notícia clicando no tópico que deseja e obtendo a informação que desejava sobre o tema.
 
 ## Novo layout
